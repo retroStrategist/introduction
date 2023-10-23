@@ -1,7 +1,6 @@
 # introduction
 A little about me!
-Hello! My name is Audrey Woo and I am a Computer Science and Medieval Studies student at Fordham University!
-My pronouns are She/They
+Hello! My name is Jack Woo and I am a Computer Science and Medieval Studies student at Fordham University!
 
 As I start work on new projects, I will start uploading them here!
 
